@@ -32,10 +32,9 @@ This project uses the following technologies:
 
 To run this project locally, you need to have Node.js, npm, and MongoDB installed on your machine.
 
-1. Clone this repo to your local machine using `git clone https://github.com/tehseen01/nextjs-blog.git`
-2. Navigate to the project directory using `cd nextjs-blog`
-3. Install the dependencies using `npm install`
-4. Create a `.env` file in the root directory and add the following variables:
+1. Clone this repo to your local machine.
+2. Install the dependencies using `npm install`
+3. Create a `.env` file in the root directory and add the following variables:
     - `MONGO_URI`: The connection string to your MongoDB database
     - `JWT_SECRET`: The secret key for JSON Web Token authentication
     - `CLOUDINARY_URL`: The connection string to your Cloudinary account for image uploading
@@ -96,21 +95,12 @@ To view the latest, top, and trending blog posts, follow these steps:
 1. Go to the homepage and click on the **Latest**, **Top**, or **Trending** tabs
 2. Browse through the blog posts and click on them to read them
 
-## Contribution
-
-This project is open for contributions. If you want to contribute to this project, please follow these guidelines:
-
-- Fork this repository and create a new branch for your feature or bug fix.
-- Write clear and descriptive commit messages and pull request titles.
-- Follow the code style and conventions of the project.
-- Commit and push your changes to GitHub
-- Test your code before submitting a pull request.
-- Respect the code of conduct and be kind to other contributors.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-If you have any questions or feedback about this project, feel free to contact me at [tehseen.type@gmail.com](mailto:tehseen.type@gmail.com).
+If you have any questions or feedback about this project, feel free to contact me at [anandpandacs@gmail.com](mailto:anandpandacs@gmail.com).
+
+# This is the submission to the perosnal blog platform development task given by Attack Capital. I am thankful for shortlisting me for this round and hope to work with them in the future.
