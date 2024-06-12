@@ -103,4 +103,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or feedback about this project, feel free to contact me at [anandpandacs@gmail.com](mailto:anandpandacs@gmail.com).
 
-# This is the submission to the perosnal blog platform development task given by Attack Capital. I am thankful for shortlisting me for this round and hope to work with them in the future.
+## Note
+This is the submission to the perosnal blog platform development task given by Attack Capital. I am thankful for shortlisting me for this round and hope to work with them in the future.
